@@ -1,0 +1,61 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_5E847E5D_4853_6EAC_41CF_70CE6B00EBD4.source = https://wa.me/5583981082781
+LinkBehaviour_5CB4948B_4874_D394_41CC_2BCC947A0373.source = https://wa.me/5583981082781
+LinkBehaviour_5062F0AE_4854_B3EC_41D0_906E3891C98F.source = https://wa.me/5583998026422
+
+## Media
+
+### Audio
+audiores_5F44EC7F_485D_536C_41CB_E7B2ACD99369.mp3Url = media/audio_5E1650DB_486D_53AB_41D1_3AAC443A1FC5_pt.mp3
+
+### Title
+panorama_42C7261F_482C_DEAC_41BE_85C4D5899A52.label = Closet suíte master
+panorama_42C781E3_482C_B594_41BE_3E6DB96BFC4C.label = Corredor
+panorama_42C78DAE_482C_ADEC_41AD_44D047BA4500.label = Cozinha01
+panorama_42C44901_482F_5294_41AF_4DED2F4B0FD5.label = Cozinha02
+panorama_42C45455_482F_72BC_41C2_9E6AEBDAB54A.label = Frente
+panorama_42C4003F_482F_52EC_4187_DEB712FBF154.label = Lateral direita
+panorama_42C47C29_482F_5294_41A8_815C0E2A03F4.label = Piscina
+panorama_42C418DB_482F_B3B4_41CA_30D6C31ECA34.label = Sala 1 andar
+panorama_42C43FB6_482F_EDFC_41B5_D2108E5D9B47.label = Suite Hospede
+panorama_42C4EB6C_482F_F56D_41BC_FAA65FDA1425.label = Suíte master
+panorama_42C5E767_482F_DE9C_4195_0ADFE29C9C5D.label = Suíte meio
+panorama_42C5840A_482F_B294_4184_47B62CD5D823.label = Suíte varanda
+panorama_42D60039_482F_52F4_41BB_56DDAF7CD35C.label = Varanda
+panorama_42C2B3C5_482F_559C_41C7_42298B4C901A.label = Wc Suíte meio
+panorama_42C57B4C_482F_56AC_41D1_D2B3076C0210.label = Wc suíte hospede
+panorama_42C577A6_482F_7D9C_41C6_501D4161DEB9.label = Wc suíte master
+panorama_42C28F7A_482C_AD74_41D0_19A12570533A.label = Wc suíte varanda
+panorama_42C43440_482F_D295_416D_DECA72000EE0.label = sala
+panorama_43D758E3_482C_D394_41BE_6A52A13A61AA.label = Área gourmet
+panorama_42C0AA22_482C_F694_41C8_09C74F2BF40F.label = Área serviço
+
+## Right Click Menu
+
+### Text
+menuItem_50B4C806_4854_D29C_41CC_535271325AB7.label = Criado pela Vide360
+
+## Skin
+
+### Button
+Button_5BC6F0C2_487D_5395_4197_0A24F2B834B6.label = Começar
+Button_5BC6F0C2_487D_5395_4197_0A24F2B834B6_mobile.label = Começar
+
+### Image
+Image_504F5572_4854_BD74_41A4_78CCBF210CA5.url = skin/Image_504F5572_4854_BD74_41A4_78CCBF210CA5_pt.png
+Image_50FB551F_4855_B2AC_41AB_4531683CE67F.url = skin/Image_50FB551F_4855_B2AC_41AB_4531683CE67F_pt.png
+Image_5C0AA1B0_4873_B5F5_41C0_9A3ED169267C_mobile.url = skin/Image_5C0AA1B0_4873_B5F5_41C0_9A3ED169267C_mobile_pt.png
+Image_5C0AA1B0_4873_B5F5_41C0_9A3ED169267C.url = skin/Image_5C0AA1B0_4873_B5F5_41C0_9A3ED169267C_pt.png
+Image_5CE5D29E_4873_57AC_41C5_04553B0DD723_mobile.url = skin/Image_5CE5D29E_4873_57AC_41C5_04553B0DD723_mobile_pt.png
+Image_5CE5D29E_4873_57AC_41C5_04553B0DD723.url = skin/Image_5CE5D29E_4873_57AC_41C5_04553B0DD723_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Casa Vilas2
